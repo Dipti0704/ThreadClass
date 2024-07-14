@@ -1,0 +1,2 @@
+WHAT IS THREAD?
+thread is the unit of execution, whatever is running on the cpu that has to be inside a thread and then that thread will be sheduled and executed.
